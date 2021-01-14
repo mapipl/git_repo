@@ -1,0 +1,2 @@
+zawartosc plik.txt w no_main.
+_
