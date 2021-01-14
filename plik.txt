@@ -1,0 +1,1 @@
+zawartosc plik.txt w galezi main
